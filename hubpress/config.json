@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "freekrai",
-    "repositoryName": "hubpress",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"freekrai","repositoryName":"hubpress","branch":"gh-pages"},"site":{"title":"HubPress","description":"Just testing this out","postsPerPage":"10","url":"https://freekrai.github.io/hubpress"},"socialnetwork":{},"theme":{"name":"Casper","url":"//freekrai.github.io/hubpress/themes/Casper"}}

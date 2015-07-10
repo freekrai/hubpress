@@ -1,0 +1,11 @@
+# Markdown test
+
+Does [this](http://daringfireball.net/projects/markdown/) work here? It **better**.
+
+## Why markdown?
+
+Markdown is _the_ markup language for writing on any type, especially blogging.
+
+### Don't believe me?
+
+Just ask around...
